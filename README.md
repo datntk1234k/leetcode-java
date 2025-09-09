@@ -23,7 +23,8 @@ I follow a topic-based roadmap to systematically improve my Data Structures & Al
 
 I carefully analyze each solution’s complexity to ensure optimization:  
 
-![Big-O](./assets/big-o.png)
+![Big-O](./assets/Big-O-Notation.png)
+
 
 - 🟢 **Good:** O(1), O(log n)  
 - 🟠 **OK:** O(n), O(n log n)  
