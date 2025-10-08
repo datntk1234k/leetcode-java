@@ -4,7 +4,7 @@ import java.util.HashSet;
 
 public class solution2 {
     public int longestConsecutive(int[] nums) {
-        // Hashset O (n)
+        // Hashset O(n)
         HashSet<Integer> numsSet = new HashSet<>();
         for (int num: nums) {
             numsSet.add(num);
