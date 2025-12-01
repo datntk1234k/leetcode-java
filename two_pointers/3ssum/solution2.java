@@ -25,7 +25,7 @@ public class solution2 { // Two Pointers
                     res.add(Arrays.asList(nums[i], nums[l], nums[r]));
                     r--;
                     l++;
-                    while (l < r && nums[l] == nums[r]) {
+                    while (l < r && nums[l] == nums[l - 1]) {
                         l++;
                     }
                 }
